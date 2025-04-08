@@ -10,6 +10,4 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jeremiah-herring/azure-network-protocols)
 
 <h2>Connect with me:</h2>
-
-
 [linkedin]: https://linkedin.com/in/jeremiah-herring-0324b816b 
